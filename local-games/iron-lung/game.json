@@ -1,0 +1,83 @@
+{
+  "slug": "iron-lung",
+  "title": "Iron Lung",
+  "type": "HTML",
+  "developer": "David Szymanski",
+  "description": "Iron Lung is a short dread-driven submarine horror game from the developer of DUSK, The Moon Sliver, and Squirrel Stapler.",
+  "tags": [
+    "Horror",
+    "Atmospheric",
+    "Exploration",
+    "First-Person",
+    "Sci-Fi",
+    "Indie"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "68d12152-aa4d-4d61-8bd1-030148dcc256",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/68d12152-aa4d-4d61-8bd1-030148dcc256/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/68d12152-aa4d-4d61-8bd1-030148dcc256/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/68d12152-aa4d-4d61-8bd1-030148dcc256/1/index.html",
+  "status": "done",
+  "sizeBytes": 66394924,
+  "assetCount": 14,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/68d12152-aa4d-4d61-8bd1-030148dcc256/1/built.wasm",
+    "https://playobsidian.com/cdn/assets/html/68d12152-aa4d-4d61-8bd1-030148dcc256/1/Build/built.data",
+    "https://playobsidian.com/cdn/assets/html/68d12152-aa4d-4d61-8bd1-030148dcc256/1/Build/built.wasm",
+    "https://playobsidian.com/cdn/assets/html/68d12152-aa4d-4d61-8bd1-030148dcc256/1/built.data",
+    "https://playobsidian.com/cdn/assets/html/68d12152-aa4d-4d61-8bd1-030148dcc256/1/Build/build.wasm",
+    "https://playobsidian.com/cdn/assets/html/68d12152-aa4d-4d61-8bd1-030148dcc256/1/Build/build.temp.asm.js"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/68d12152-aa4d-4d61-8bd1-030148dcc256/1/built.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/68d12152-aa4d-4d61-8bd1-030148dcc256/1/built.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/68d12152-aa4d-4d61-8bd1-030148dcc256/1/Build/built.data",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/68d12152-aa4d-4d61-8bd1-030148dcc256/1/Build/built.data",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/68d12152-aa4d-4d61-8bd1-030148dcc256/1/Build/built.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/68d12152-aa4d-4d61-8bd1-030148dcc256/1/Build/built.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/68d12152-aa4d-4d61-8bd1-030148dcc256/1/built.data",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/68d12152-aa4d-4d61-8bd1-030148dcc256/1/built.data",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/68d12152-aa4d-4d61-8bd1-030148dcc256/1/Build/build.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/68d12152-aa4d-4d61-8bd1-030148dcc256/1/Build/build.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/68d12152-aa4d-4d61-8bd1-030148dcc256/1/Build/build.temp.asm.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/68d12152-aa4d-4d61-8bd1-030148dcc256/1/Build/build.temp.asm.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T11:35:33.386Z",
+  "verifiedAt": "2026-10-26T11:35:43.420Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "IRON LUNG",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0
+  }
+}
